@@ -8,6 +8,7 @@
 }
 nav{
     background-color: transparent;
+    color:rgb(46, 224, 46);
 }
 html , body{
     background-color: black;
@@ -77,4 +78,10 @@ section a{
 }
 section .card-header{
     color: azure;
+}
+.info{
+    display: none;
+}
+.show{
+    display: block;
 }
