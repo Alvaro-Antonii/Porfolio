@@ -85,3 +85,8 @@ section .card-header{
 .show{
     display: block;
 }
+.col-12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
