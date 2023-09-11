@@ -19,3 +19,4 @@ function toggleText(){
 		h_btn.innerHTML = "Mostrar más";
 	}
 }
+
