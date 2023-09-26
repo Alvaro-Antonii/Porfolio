@@ -54,7 +54,9 @@ section {
     background-color: black;
   }
 
-
+.border:hover{
+    box-shadow: 10px 10px 5px rgb(46, 224, 46);
+}
 .card-img{
     height: 100%;
 }
